@@ -1,7 +1,7 @@
 # Value-of-Wating-to-Invest-Option
 
 ## Introduction: 
-- Robert McDonald and Daniel Siegel wrote a paper, published in 1986, that argues that the present value of an investment should consider not only the current PV of benefits and the PV of costs, but also the value of waiting to make the investment at a later date.  If making the investment is irreversible, but the decision to defer is reversible, this asymmetry creates value for companies deciding when to make investments.
+- Robert McDonald and Daniel Siegel wrote a [paper](The Value of Waiting to Invest.pdf), published in 1986, that argues that the present value of an investment should consider not only the current PV of benefits and the PV of costs, but also the value of waiting to make the investment at a later date.  If making the investment is irreversible, but the decision to defer is reversible, this asymmetry creates value for companies deciding when to make investments.
 - In this project we Implement this Idea to estimate the value of waiting to invest option. We assume that the expected cashflows and the costs follow mean reverting process and are positively correlated.
 
 ## Methodology: 
