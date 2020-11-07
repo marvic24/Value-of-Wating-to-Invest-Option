@@ -30,7 +30,7 @@ As we can see from this graph, Value of waiting is maximum for threshold 1.515. 
 ![screenshot](Results.png)
 
 
-##Conclusion:
+## Conclusion:
 From the above graph, we can see that while investing we shall look at current value and costs of investment as well as value of waiting  to make a optimal investment.
 1.	We can use methodology in this simulations to find the value of waiting for mean reverting processes.
 2.	Similar method can be used for Arithmetic Brownian Processes. Because they Grow linearly and Are discounted exponentially, there can be value in Waiting.
